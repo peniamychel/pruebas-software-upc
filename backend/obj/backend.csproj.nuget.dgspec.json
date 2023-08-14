@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj": {}
+    "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj": {
+    "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
+        "projectUniqueName": "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
+        "projectPath": "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\obj\\",
+        "outputPath": "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

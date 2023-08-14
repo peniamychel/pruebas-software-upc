@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JZj4A0lBRCVCO0oUhVKEgc0O7nJGbHyFCzm5Tg3nqpPFzsvrBGZa/KQ5T8hwLeSxVn7aJbO2qcS+/DdElVLYUg==",
+  "dgSpecHash": "xgUAgGUpWUUb6vFJMZh8S8ejY5aprSy9tA3fwmbbDT5T8X1EJh3LfsJSeVFn6hBIfeTL5a4uzWECvGMX+64ZwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
+  "projectFilePath": "c:\\Users\\USER\\Documents\\GitHub\\pruebas-software-upc\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
